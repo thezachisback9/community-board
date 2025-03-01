@@ -1,34 +1,36 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Music Concerts
 
-Submitted by: **Your Name Here**
+Submitted by: Zachary Amanuel
 
-This web app: **insert description**
+This web app: allows you to view concerts for 10 different music artists
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [X] Buttons or links to a related resources are on each card component
+- [X] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
-
+* [X] List anything else that you added to improve the site's functionality!
+* [X] Links open in a new tab
+      
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Sm81QDG" data-context="false" ><a href="//imgur.com/a/Sm81QDG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNlZW01NnlnNXJha2c3YzJkcmh5ZXd0bmRmdGE2ZjAyaWNjMG5wdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vp5GPqtP8s0DusA1Q8/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,6 +39,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- Getting the centering correct was difficult because flexbox acts weird sometimes
+- choosing the background and button colors was a bit hard to decide
+
 
 ## License
 
